@@ -26,7 +26,115 @@
 <link href="./fitrix/style.css" rel="stylesheet">
 <link href="./fitrix/responsive.css" rel="stylesheet">
 
-<script type="text/javascript" charset="UTF-8" src="./fitrix/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./fitrix/util.js.download"></script></head>
+<script type="text/javascript" charset="UTF-8" src="./fitrix/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./fitrix/util.js.download"></script><style>
+.sticky-header {
+    display: none !important;
+}
+.sticky-header.active {
+    display: block !important;
+}
+
+/* Navigation Responsive Fixes */
+.main-menu .navigation {
+    display: flex !important;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.main-menu .navigation > li {
+    float: none !important;
+    margin: 0px 12px !important;
+    flex-shrink: 0;
+}
+
+.main-menu .navigation > li:first-child {
+    margin-left: 0px !important;
+}
+
+.main-menu .navigation > li:last-child {
+    margin-right: 0px !important;
+}
+
+.main-menu .navigation > li > a {
+    font-size: 16px !important;
+    padding: 49px 8px !important;
+    white-space: nowrap;
+}
+
+/* Sticky Header Menu */
+.sticky-header .main-menu .navigation > li > a {
+    padding: 25px 12px !important;
+    font-size: 15px !important;
+}
+
+/* Tablet Responsiveness */
+@media only screen and (max-width: 1399px) {
+    .main-menu .navigation > li {
+        margin: 0px 8px !important;
+    }
+
+    .main-menu .navigation > li > a {
+        font-size: 15px !important;
+        padding: 49px 6px !important;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .main-menu .navigation > li {
+        margin: 0px 6px !important;
+    }
+
+    .main-menu .navigation > li > a {
+        font-size: 14px !important;
+        padding: 49px 5px !important;
+    }
+
+    .main-menu .navigation > li.dropdown > a {
+        padding-right: 15px !important;
+    }
+}
+
+/* Mobile Menu - Show on smaller screens */
+@media only screen and (max-width: 1200px) {
+    .main-menu,
+    .sticky-header {
+        display: none !important;
+    }
+
+    .mobile-menu {
+        display: block !important;
+    }
+}
+
+/* Additional Responsive Fixes */
+.header-lower {
+    overflow-x: auto;
+}
+
+.menu-area {
+    width: 100%;
+    overflow: hidden;
+}
+
+.main-menu .navigation > li.dropdown > a:before {
+    right: 2px !important;
+}
+
+/* Fix dropdown positioning */
+.main-menu .navigation > li > ul {
+    min-width: 200px;
+}
+
+.main-menu .navigation > li > .megamenu {
+    min-width: 600px;
+}
+
+/* Ensure contact button/link stays inline */
+.nav-right {
+    margin-left: auto;
+    flex-shrink: 0;
+}
+</style></head>
 
 
 <!-- page wrapper -->
