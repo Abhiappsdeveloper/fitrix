@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Ukonnect Staffing - People. Positions. Perfectly Ukonnected.</title>
+<title>BitFix - HTML 5 Template Preview</title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="https://azim.hostlin.com/Bitfix/assets/images/favicon.ico" type="image/x-icon">
@@ -169,7 +169,7 @@
                                                     <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
                                                 </ul>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">About</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Pages</a>
                                                 <ul>
                                                     <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">About Us</a>
                                                         <ul>
@@ -193,15 +193,15 @@
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
                                             <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Services</a>
                                                 <ul>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/service.html">Temporary Staffing</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/service-2.html">Permanent Recruitment</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Contract Staffing</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/profit-sharing.html">Payroll &amp; Compliance</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/success-aquracy.html">Outsourcing Solutions</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Executive Search</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/service.html">Services 01</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/service-2.html">Services 02</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Business Planning</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/profit-sharing.html">Profit Sharing</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/success-aquracy.html">Success Aquracy</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Sales &amp; Report</a></li>
                                                 </ul>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Industries</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Elements</a>
                                                 <div class="megamenu">
                                                     <div class="row clearfix">
                                                         <div class="col-lg-4 column">
@@ -245,7 +245,7 @@
                                                     </div>                                            
                                                 </div>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Workshop</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Blog</a>
                                                 <ul>
                                                     <li><a href="https://azim.hostlin.com/Bitfix/blog.html">Our Blog</a></li>
                                                     <li><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Blog Details</a></li>
@@ -298,7 +298,7 @@
                                                     <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
                                                 </ul>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">About</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Pages</a>
                                                 <ul>
                                                     <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">About Us</a>
                                                         <ul>
@@ -322,15 +322,15 @@
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
                                             <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Services</a>
                                                 <ul>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/service.html">Temporary Staffing</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/service-2.html">Permanent Recruitment</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Contract Staffing</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/profit-sharing.html">Payroll &amp; Compliance</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/success-aquracy.html">Outsourcing Solutions</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Executive Search</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/service.html">Services 01</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/service-2.html">Services 02</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Business Planning</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/profit-sharing.html">Profit Sharing</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/success-aquracy.html">Success Aquracy</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Sales &amp; Report</a></li>
                                                 </ul>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Industries</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Elements</a>
                                                 <div class="megamenu">
                                                     <div class="row clearfix">
                                                         <div class="col-lg-4 column">
@@ -374,7 +374,7 @@
                                                     </div>                                            
                                                 </div>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Workshop</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Blog</a>
                                                 <ul>
                                                     <li><a href="https://azim.hostlin.com/Bitfix/blog.html">Our Blog</a></li>
                                                     <li><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Blog Details</a></li>
@@ -423,7 +423,7 @@
                                                     <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
                                                 </ul>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">About</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Pages</a>
                                                 <ul>
                                                     <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">About Us</a>
                                                         <ul>
@@ -447,15 +447,15 @@
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
                                             <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Services</a>
                                                 <ul>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/service.html">Temporary Staffing</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/service-2.html">Permanent Recruitment</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Contract Staffing</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/profit-sharing.html">Payroll &amp; Compliance</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/success-aquracy.html">Outsourcing Solutions</a></li>
-                                                    <li><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Executive Search</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/service.html">Services 01</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/service-2.html">Services 02</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Business Planning</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/profit-sharing.html">Profit Sharing</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/success-aquracy.html">Success Aquracy</a></li>
+                                                    <li><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Sales &amp; Report</a></li>
                                                 </ul>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Industries</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Elements</a>
                                                 <div class="megamenu">
                                                     <div class="row clearfix">
                                                         <div class="col-lg-4 column">
@@ -499,7 +499,7 @@
                                                     </div>                                            
                                                 </div>
                                             <div class="dropdown-btn"><span class="fas fa-angle-down"></span></div></li>
-                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Workshop</a>
+                                            <li class="dropdown"><a href="https://azim.hostlin.com/Bitfix/index.html">Blog</a>
                                                 <ul>
                                                     <li><a href="https://azim.hostlin.com/Bitfix/blog.html">Our Blog</a></li>
                                                     <li><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Blog Details</a></li>
@@ -512,9 +512,9 @@
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>United States</li>
+                        <li>Chicago 12, Melborne City, USA</li>
                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@ukonnectstaffing.com">info@ukonnectstaffing.com</a></li>
+                        <li><a href="mailto:info@example.com">info@example.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">
@@ -550,9 +550,9 @@
                                     <li><img src="./BitFix - HTML 5 Template Preview3_files/person-5.png" alt=""></li>
                                     <li><img src="./BitFix - HTML 5 Template Preview3_files/person-6.png" alt=""><span>250+</span></li>
                                 </ul>
-                                <h3>Trusted Clients</h3>
+                                <h3>Trasted Client</h3>
                             </div>
-                            <h2>People. Positions. Perfectly Ukonnected.</h2>
+                            <h2>Create your success business</h2>
                             <div class="form-inner">
                                 <form action="https://azim.hostlin.com/Bitfix/contact.html" method="post">
                                     <div class="form-group">
@@ -561,7 +561,7 @@
                                     </div>
                                 </form>
                             </div>
-                            <p>The best staffing agency in USA, connecting talented professionals with companies that recognize passion, drive, and the power of a perfect fit.</p>
+                            <p>Get professional &amp; reliable research oriented solutions for Data <br>Science and Machine Learning business needs.</p>
                         </div>
                     </div>
                 </div>
@@ -574,7 +574,7 @@
         <section class="clients-section alternat-2">
             <div class="auto-container">
                 <div class="text centred">
-                    <p>Over <span>250+</span> businesses growing with <a href="https://azim.hostlin.com/Bitfix/index-3.html">Ukonnect Staffing</a></p>
+                    <p>Over <span>25K+</span> software business growing with <a href="https://azim.hostlin.com/Bitfix/index-3.html">BitFix</a></p>
                 </div>
                 <div class="four-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none owl-loaded owl-drag">
                     
@@ -600,12 +600,12 @@
                             <div class="col-lg-6 col-md-12 col-sm-12 title-column">
                                 <div class="sec-title">
                                     <h5 class="g_color"><i class="icon-11 g_color"></i>Our Services</h5>
-                                    <h2>Outsourcing Solutions</h2>
+                                    <h2>The Product we Work With</h2>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 text-column">
                                 <div class="text">
-                                    <p>Flexible staffing and workforce solutions, from outsourcing and payroll to executive search and contract staffing.</p>
+                                    <p>Business is the activity of making one's living or making money by producing cumsociis <br>natoque.</p>
                                 </div>
                             </div>
                         </div>
@@ -618,15 +618,15 @@
                                         <figure class="image-box"><img src="./BitFix - HTML 5 Template Preview3_files/service-4.jpg" alt=""></figure>
                                         <div class="text">
                                             <div class="icon-box"><i class="icon-16"></i></div>
-                                            <span>Services</span>
-                                            <h3>Outsourcing Solutions</h3>
+                                            <span>Research</span>
+                                            <h3>Business Analysis</h3>
                                         </div>
                                     </div>
                                     <div class="overlay-content">
                                         <div class="inner">
                                             <div class="icon-box"><i class="icon-16"></i></div>
-                                            <h3><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Outsourcing Solutions</a></h3>
-                                            <p>Cut costs and scale with confidence through our workforce outsourcing solutions, from single roles to full teams.</p>
+                                            <h3><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Business Analysis</a></h3>
+                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi</p>
                                         </div>
                                     </div>
                                 </div>
@@ -639,15 +639,15 @@
                                         <figure class="image-box"><img src="./BitFix - HTML 5 Template Preview3_files/service-5.jpg" alt=""></figure>
                                         <div class="text">
                                             <div class="icon-box"><i class="icon-13"></i></div>
-                                            <span>Services</span>
-                                            <h3>Payroll &amp; Compliance</h3>
+                                            <span>Research</span>
+                                            <h3>Sales &amp; Report</h3>
                                         </div>
                                     </div>
                                     <div class="overlay-content">
                                         <div class="inner">
                                             <div class="icon-box"><i class="icon-13"></i></div>
-                                            <h3><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Payroll &amp; Compliance</a></h3>
-                                            <p>Effortless payroll processing and full compliance with USA employment laws, so you can focus on your operations.</p>
+                                            <h3><a href="https://azim.hostlin.com/Bitfix/sales-report.html">Sales &amp; Report</a></h3>
+                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi</p>
                                         </div>
                                     </div>
                                 </div>
@@ -660,15 +660,15 @@
                                         <figure class="image-box"><img src="./BitFix - HTML 5 Template Preview3_files/service-6.jpg" alt=""></figure>
                                         <div class="text">
                                             <div class="icon-box"><i class="icon-12"></i></div>
-                                            <span>Services</span>
-                                            <h3>Executive Search</h3>
+                                            <span>Research</span>
+                                            <h3>Marketing Stategy</h3>
                                         </div>
                                     </div>
                                     <div class="overlay-content">
                                         <div class="inner">
                                             <div class="icon-box"><i class="icon-12"></i></div>
-                                            <h3><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Executive Search</a></h3>
-                                            <p>Strategic leadership hiring that connects your organization with refined leaders who elevate your business.</p>
+                                            <h3><a href="https://azim.hostlin.com/Bitfix/business-planning.html">Marketing Stategy</a></h3>
+                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi</p>
                                         </div>
                                     </div>
                                 </div>
@@ -701,23 +701,23 @@
                                 <div class="video-btn">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-10"></i></a>
                                 </div>
-                                <h2>Ukonnect Training Programs</h2>
-                                <p>Boost your career with our industry-focused online training courses, crafted to match employer expectations and USA job market demands.</p>
+                                <h2>We Help Our Clients To Grow Up your business</h2>
+                                <p>Research oriented solutions for Data Science  and Machine Learning business needs.</p>
                             </div>
                             <div class="inner-box">
                                 <div class="single-item">
                                     <div class="icon-box">
                                         <div class="icon g_color"><i class="icon-8"></i></div>
                                     </div>
-                                    <h3>Online Business Analyst Training</h3>
-                                    <p>Sharpen your problem-solving and analytical skills for in-demand business analyst roles.</p>
+                                    <h3>Our Mission</h3>
+                                    <p>We don't pursue e very company that needs computer support.</p>
                                 </div>
                                 <div class="single-item">
                                     <div class="icon-box">
                                         <div class="icon g_color"><i class="icon-9"></i></div>
                                     </div>
-                                    <h3>Online Data Analyst Training</h3>
-                                    <p>Gain the practical data skills and confidence employers are actively looking for.</p>
+                                    <h3>Our Vision</h3>
+                                    <p>We don't pursue e very company that needs computer support.</p>
                                 </div>
                             </div>
                         </div>
@@ -738,7 +738,7 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="12">0</span><span>k</span>
                             </div>
-                            <h5>businesses helped</h5>
+                            <h5>happy clients</h5>
                         </div>
                     </div>
                     <div class="funfact-block-two">
@@ -747,7 +747,7 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="400">0</span>
                             </div>
-                            <h5>candidates placed</h5>
+                            <h5>employees</h5>
                         </div>
                     </div>
                     <div class="funfact-block-two">
@@ -756,7 +756,7 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="9">0</span><span>+</span>
                             </div>
-                            <h5>industries served</h5>
+                            <h5>offices in 9 counties</h5>
                         </div>
                     </div>
                 </div>
@@ -769,9 +769,9 @@
         <section class="project-style-two"> 
             <div class="outer-container">
                 <div class="sec-title centred">
-                    <h5 class="g_color"><i class="icon-11 g_color"></i>Our Industries</h5>
-                    <h2>Empowering USA Industry with Trusted Talent Solutions</h2>
-                    <p>Connecting progressive organizations with ambitious professionals, <br>driving business growth across sectors.</p>
+                    <h5 class="g_color"><i class="icon-11 g_color"></i>Clients are happy for our work</h5>
+                    <h2>We do according to our Best</h2>
+                    <p>Business is the activity of making one's living or making money by <br>producing cumsociis natoque.</p>
                 </div>
                 <div class="project-carousel owl-carousel owl-theme owl-dots-none owl-loaded owl-drag">
                     
@@ -785,10 +785,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">IT &amp; Technology</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 1</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -799,10 +799,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-6.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Finance &amp; Accounting</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 2</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -813,10 +813,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-7.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Healthcare</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 3</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -827,10 +827,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-8.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Administrative</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 4</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -841,10 +841,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">IT &amp; Technology</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 1</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -855,10 +855,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-6.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Finance &amp; Accounting</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 2</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -869,10 +869,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-7.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Healthcare</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 3</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -883,10 +883,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-8.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Administrative</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 4</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -897,10 +897,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-5.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">IT &amp; Technology</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 1</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -911,10 +911,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-6.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Finance &amp; Accounting</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 2</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -925,10 +925,10 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-7.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Healthcare</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 3</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -939,16 +939,16 @@
                                 <div class="view-btn">
                                     <a href="./BitFix - HTML 5 Template Preview3_files/project-8.jpg" class="lightbox-image" data-fancybox="gallery"><i class="icon-24"></i></a>
                                 </div>
-                                <span>Recruitment Solutions</span>
-                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Administrative</a></h2>
+                                <span>Business Consulting</span>
+                                <h2><a href="https://azim.hostlin.com/Bitfix/index-3.html">Business project 4</a></h2>
                                 <div class="btn-box">
-                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Learn More</a>
+                                    <a href="https://azim.hostlin.com/Bitfix/index-3.html" class="theme-btn btn-three"><i class="icon-7"></i>Read More</a>
                                 </div>
                             </div>
                         </div>
                     </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span class="fal fa-angle-left"></span></button><button type="button" role="presentation" class="owl-next"><span class="fal fa-angle-right"></span></button></div><div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div></div>
                 <div class="more-text centred">
-                    <h3>You Can To Look Our <a href="https://azim.hostlin.com/Bitfix/portfolio.html">All Industries</a></h3>
+                    <h3>You Can To Look Our <a href="https://azim.hostlin.com/Bitfix/portfolio.html">All Projects</a></h3>
                 </div>
             </div>
         </section>
@@ -965,8 +965,8 @@
                         <div class="col-lg-7 col-md-12 col-sm-12 content-column">
                             <div class="content-box d_block mr_30">
                                 <div class="sec-title">
-                                    <h5 class="g_color"><i class="icon-11 g_color"></i>Get In Touch</h5>
-                                    <h2>Let&rsquo;s Ukonnect!</h2>
+                                    <h5 class="g_color"><i class="icon-11 g_color"></i>Top Services</h5>
+                                    <h2>Choice Our Service</h2>
                                     <p>I would like to discuss:</p>
                                 </div>
                                 <div class="form-inner">
@@ -975,12 +975,12 @@
                                             <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                                 <div class="select-box">
                                                     <select class="wide" style="display: none;">
-                                                       <option data-display="Temporary Staffing">Temporary Staffing</option>
-                                                       <option value="1">Permanent Recruitment</option>
-                                                       <option value="2">Contract Staffing</option>
-                                                       <option value="3">Payroll &amp; Compliance</option>
-                                                       <option value="4">Outsourcing Solutions</option>
-                                                    </select><div class="nice-select wide" tabindex="0"><span class="current">Temporary Staffing</span><ul class="list"><li data-value="Temporary Staffing" data-display="Temporary Staffing" class="option selected">Temporary Staffing</li><li data-value="1" class="option">Permanent Recruitment</li><li data-value="2" class="option">Contract Staffing</li><li data-value="3" class="option">Payroll &amp; Compliance</li><li data-value="4" class="option">Outsourcing Solutions</li></ul></div>
+                                                       <option data-display="Business Analysis">Business Analysis</option>
+                                                       <option value="1">Business Planning</option>
+                                                       <option value="2">Profit Sharing</option>
+                                                       <option value="3">Success Aquracy</option>
+                                                       <option value="4">Sales &amp; Report</option>
+                                                    </select><div class="nice-select wide" tabindex="0"><span class="current">Business Analysis</span><ul class="list"><li data-value="Business Analysis" data-display="Business Analysis" class="option selected">Business Analysis</li><li data-value="1" class="option">Business Planning</li><li data-value="2" class="option">Profit Sharing</li><li data-value="3" class="option">Success Aquracy</li><li data-value="4" class="option">Sales &amp; Report</li></ul></div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12 form-group">
@@ -996,7 +996,7 @@
                                                 <input type="email" name="email" placeholder="Email" required="">
                                             </div>
                                             <div class="col-lg-12 col-md-12 col-sm-12 message-btn">
-                                                <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Contact Us</button>
+                                                <button type="submit" class="theme-btn btn-one"><i class="icon-7"></i>Let's Get To Work</button>
                                             </div>
                                         </div>
                                     </form>
@@ -1011,7 +1011,7 @@
                                 <div class="location-box">
                                     <div class="icon"><i class="icon-23"></i></div>
                                     <span>Location:</span>
-                                    <h6>United States</h6>
+                                    <h6>12/A, Pk House New York, US</h6>
                                 </div>
                                 <figure class="image"><img src="./BitFix - HTML 5 Template Preview3_files/contact-2.jpg" alt=""></figure>
                             </div>
@@ -1028,20 +1028,20 @@
             <div class="outer-container">
                 <div class="auto-container">
                     <div class="sec-title centred">
-                        <h5 class="g_color"><i class="icon-11 g_color"></i>Our People</h5>
-                        <h2>Meet Our Recruitment Experts</h2>
-                        <p>Passionate about connecting ambitious professionals with forward-thinking <br>organizations across the USA.</p>
+                        <h5 class="g_color"><i class="icon-11 g_color"></i>Client Feedback</h5>
+                        <h2>Dedicated BitFix Team</h2>
+                        <p>Business is the activity of making one's living or making money by <br>producing cumsociis natoque.</p>
                     </div>
                     <div class="tabs-box">
                         <div class="row clearfix">
                             <div class="col-lg-4 col-md-12 col-sm-12 btn-column">
                                 <div class="tab-btn-box">
                                     <ul class="tab-btns tab-buttons clearfix">
-                                        <li class="tab-btn active-btn" data-tab="#tab-1">IT &amp; Technology</li>
-                                        <li class="tab-btn" data-tab="#tab-2">Finance &amp; Accounting</li>
-                                        <li class="tab-btn" data-tab="#tab-3">Healthcare</li>
-                                        <li class="tab-btn" data-tab="#tab-4">Executive Search</li>
-                                        <li class="tab-btn" data-tab="#tab-5">Contract Staffing</li>
+                                        <li class="tab-btn active-btn" data-tab="#tab-1">Web Development</li>
+                                        <li class="tab-btn" data-tab="#tab-2">UI/UX Design</li>
+                                        <li class="tab-btn" data-tab="#tab-3">Graphics Design</li>
+                                        <li class="tab-btn" data-tab="#tab-4">Web Design</li>
+                                        <li class="tab-btn" data-tab="#tab-5">Digital Marketing</li>
                                     </ul>
                                 </div>
                             </div>
@@ -1056,7 +1056,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jackson Willy</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1069,7 +1069,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jhon Haris</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1082,7 +1082,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Albat Rok</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1095,7 +1095,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Van Helsin</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1112,7 +1112,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jhon Haris</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1125,7 +1125,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Albat Rok</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1138,7 +1138,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jackson Willy</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1151,7 +1151,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Van Helsin</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1168,7 +1168,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Van Helsin</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1181,7 +1181,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jackson Willy</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1194,7 +1194,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jhon Haris</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1207,7 +1207,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Albat Rok</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1224,7 +1224,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jhon Haris</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1237,7 +1237,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jackson Willy</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1250,7 +1250,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Albat Rok</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1263,7 +1263,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Van Helsin</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1280,7 +1280,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Albat Rok</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1293,7 +1293,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Van Helsin</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1306,7 +1306,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jackson Willy</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1319,7 +1319,7 @@
                                                         <div class="content-box">
                                                             <div class="text">
                                                                 <h5><a href="https://azim.hostlin.com/Bitfix/team-details.html">Jhon Haris</a></h5>
-                                                                <span class="designation">Recruitment Consultant</span>
+                                                                <span class="designation">Seo &amp; Marketing</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1353,19 +1353,19 @@
                                 </div>
                             </figure>
                             <div class="text">
-                                <h5>Best Staffing Agency in USA</h5>
+                                <h5>12 Years Experience</h5>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                         <div class="content-box">
                             <div class="sec-title">
-                                <h5 class="g_color"><i class="icon-11 g_color"></i>Who We Are?</h5>
-                                <h2>Empowering Careers Across the USA</h2>
-                                <p>Ukonnect Staffing connects businesses with skilled, <br>reliable talent.</p>
+                                <h5 class="g_color"><i class="icon-11 g_color"></i>Who We are?</h5>
+                                <h2>The global business automation</h2>
+                                <p>Business is the activity of making one's living or <br>making money by producing cumsociis natoque.</p>
                             </div>
                             <div class="text">
-                                <p>Our belief as a staffing company drives superior performance, connecting talented professionals with companies that recognize passion, drive, potential, and the power of a perfect fit.</p>
+                                <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. ompetitive  pricing and customer support.</p>
                             </div>
                             <div class="inner-box">
                                 <div class="row clearfix">
@@ -1373,9 +1373,9 @@
                                         <div class="single-item p_relative d_block">
                                             <div class="upper-box">
                                                 <div class="icon-box g_color"><i class="icon-27"></i></div>
-                                                <h5>Executive Search</h5>
+                                                <h5>Profit Sharing</h5>
                                             </div>
-                                            <p>Connecting refined leaders with organizations shaping the future.</p>
+                                            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12 author-column">
@@ -1404,39 +1404,39 @@
                     <div class="col-lg-6 col-md-12 col-sm-12 accordion-column">
                         <div class="accordion-inner mr_70">
                             <div class="sec-title light">
-                                <h2>Why Choose Ukonnect Staffing?</h2>
+                                <h2>You need to know before  begin everything.</h2>
                             </div>
                             <ul class="accordion-box">
                                 <li class="accordion block active-block">
                                     <div class="acc-btn active">
                                         <div class="icon-outer"><i class="icon-32"></i></div>
-                                        <h5>Personalised Matches</h5>
+                                        <h5>How do you start a polite question?</h5>
                                     </div>
                                     <div class="acc-content current">
                                         <div class="text">
-                                            <p>We understand that no two roles or candidates are the same; therefore, we tailor every placement accordingly.</p>
+                                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to  get such a personal touch. competitive pricing and  customer support.</p>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="accordion block">
                                     <div class="acc-btn">
                                         <div class="icon-outer"><i class="icon-32"></i></div>
-                                        <h5>Only the Best</h5>
+                                        <h5>How do you start a polite question?</h5>
                                     </div>
                                     <div class="acc-content">
                                         <div class="text">
-                                            <p>Our rigorous screening means you're only considered for roles that truly match your skills and goals.</p>
+                                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to  get such a personal touch. competitive pricing and  customer support.</p>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="accordion block">
                                     <div class="acc-btn">
                                         <div class="icon-outer"><i class="icon-32"></i></div>
-                                        <h5>Fast, Focused Support</h5>
+                                        <h5>How do you start a polite question?</h5>
                                     </div>
                                     <div class="acc-content">
                                         <div class="text">
-                                            <p>We move quickly, connecting you with the right opportunities without sacrificing quality or precision.</p>
+                                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to  get such a personal touch. competitive pricing and  customer support.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -1447,8 +1447,8 @@
                         <div class="testimonial-inner ml_70">
                             <div class="sec-title light">
                                 <h5><i class="icon-11"></i>Testimonial</h5>
-                                <h2>Let&rsquo;s Ukonnect!</h2>
-                                <p>Whether you're hiring your next top performer or searching for a job that inspires you, Ukonnect Staffing is here to help.</p>
+                                <h2>Our Happy Clients Says?</h2>
+                                <p>Business is the activity of making one's living or making money by producing cumsociis natoque.</p>
                             </div>
                             <div class="single-item-carousel owl-carousel owl-theme owl-nav-none owl-loaded owl-drag">
                                 
@@ -1464,10 +1464,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div><div class="owl-item cloned" style="width: 763px; margin-right: 30px;"><div class="testimonial-content">
                                     <div class="author-box">
@@ -1479,10 +1479,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div><div class="owl-item" style="width: 763px; margin-right: 30px;"><div class="testimonial-content">
                                     <div class="author-box">
@@ -1494,10 +1494,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div><div class="owl-item" style="width: 763px; margin-right: 30px;"><div class="testimonial-content">
                                     <div class="author-box">
@@ -1509,10 +1509,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div><div class="owl-item active" style="width: 763px; margin-right: 30px;"><div class="testimonial-content">
                                     <div class="author-box">
@@ -1524,10 +1524,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div><div class="owl-item cloned" style="width: 763px; margin-right: 30px;"><div class="testimonial-content">
                                     <div class="author-box">
@@ -1539,10 +1539,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div><div class="owl-item cloned" style="width: 763px; margin-right: 30px;"><div class="testimonial-content">
                                     <div class="author-box">
@@ -1554,10 +1554,10 @@
                                             <li><i class="icon-20"></i></li>
                                             <li><i class="icon-20"></i></li>
                                         </ul>
-                                        <h5>John Smith, <span>Our Client</span></h5>
+                                        <h5>John Smith, <span>Our Customers</span></h5>
                                     </div>
                                     <div class="text">
-                                        <p>Ukonnect Staffing helped us find the right talent quickly and professionally — a true people-first partner in hiring.</p>
+                                        <p>This is due to their excellent service, competitive pricing  and customer support. It’s throughly refresing to get such a personal touch. competitive pricing and customer support.</p>
                                     </div>
                                 </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="fal fa-angle-left"></span></button><button type="button" role="presentation" class="owl-next"><span class="fal fa-angle-right"></span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
                         </div>
@@ -1572,9 +1572,9 @@
         <section class="news-section">
             <div class="auto-container">
                 <div class="sec-title centred">
-                    <h5 class="g_color"><i class="icon-11 g_color"></i>Our Online Workshop</h5>
-                    <h2>Ukonnect Training Programs</h2>
-                    <p>Boost your career with our industry-focused online <br>training courses for the USA job market.</p>
+                    <h5 class="g_color"><i class="icon-11 g_color"></i>Featured Insights</h5>
+                    <h2>Our Business Policy</h2>
+                    <p>Business is the activity of making one's living or making money by <br>producing cumsociis natoque.</p>
                 </div>
                 <div class="row clearfix">
                     <div class="single-item-carousel owl-carousel owl-theme owl-dots-none owl-loaded owl-drag">
@@ -1591,9 +1591,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-4.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jarina walmart</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Business Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Five Takes on Sustainability Revolution in <br>business.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item cloned" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1605,9 +1605,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-6.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jhon Haris</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Data Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">You need to know before begin <br>everything.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1619,9 +1619,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-4.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jarina walmart</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Business Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Five Takes on Sustainability Revolution in <br>business.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1633,9 +1633,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-6.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jhon Haris</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Data Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">You need to know before begin <br>everything.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item active" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1647,9 +1647,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-4.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jarina walmart</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Business Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Five Takes on Sustainability Revolution in <br>business.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1661,9 +1661,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-6.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jhon Haris</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Data Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">You need to know before begin <br>everything.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item cloned" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1675,9 +1675,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-4.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jarina walmart</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Business Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Five Takes on Sustainability Revolution in <br>business.</a></h2>
                                 </div>
                             </div>
                         </div></div><div class="owl-item cloned" style="width: 1170px; margin-right: 30px;"><div class="news-block-one">
@@ -1689,9 +1689,9 @@
                                 <div class="lower-content">
                                     <div class="author-box">
                                         <figure class="author-thumb"><img src="./BitFix - HTML 5 Template Preview3_files/author-6.jpg" alt=""></figure>
-                                        <h6 class="g_color">Ukonnect Staffing</h6>
+                                        <h6 class="g_color">Jhon Haris</h6>
                                     </div>
-                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">Online Data Analyst <br>Training.</a></h2>
+                                    <h2><a href="https://azim.hostlin.com/Bitfix/blog-details.html">You need to know before begin <br>everything.</a></h2>
                                 </div>
                             </div>
                         </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="fal fa-angle-left"></span></button><button type="button" role="presentation" class="owl-next"><span class="fal fa-angle-right"></span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
@@ -1720,7 +1720,7 @@
                                 <div class="inner-box p_relative d_block">
                                     <div class="icon-box"><i class="icon-19"></i></div>
                                     <h5>Email Address</h5>
-                                    <p><a href="mailto:info@ukonnectstaffing.com">info@ukonnectstaffing.com</a></p>
+                                    <p><a href="mailto:info@example.com">info@example.com</a></p>
                                 </div>
                             </div>
                         </div>
@@ -1729,7 +1729,7 @@
                                 <div class="inner-box p_relative d_block">
                                     <div class="icon-box"><i class="icon-23"></i></div>
                                     <h5>Office Address:</h5>
-                                    <p>United States</p>
+                                    <p>380 St Kilda Road, Melbourne</p>
                                 </div>
                             </div>
                         </div>
@@ -1755,7 +1755,7 @@
                             <div class="logo-widget footer-widget">
                                 <figure class="footer-logo"><a href="https://azim.hostlin.com/Bitfix/index-3.html"><img src="./BitFix - HTML 5 Template Preview3_files/footer-logo.png" alt=""></a></figure>
                                 <div class="widget-content">
-                                    <p>Ukonnect Staffing connects businesses with skilled, reliable talent.</p>
+                                    <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.</p>
                                     <ul class="social-links clearfix">
                                         <li><a href="https://azim.hostlin.com/Bitfix/index-3.html"><i class="icon-3"></i></a></li>
                                         <li><a href="https://azim.hostlin.com/Bitfix/index-3.html"><i class="icon-4"></i></a></li>
@@ -1776,7 +1776,7 @@
                                         <li><a href="https://azim.hostlin.com/Bitfix/index.html">About</a></li>
                                         <li><a href="https://azim.hostlin.com/Bitfix/index.html">Contact</a></li>
                                         <li><a href="https://azim.hostlin.com/Bitfix/index.html">Services</a></li>
-                                        <li><a href="https://azim.hostlin.com/Bitfix/index.html">Workshop</a></li>
+                                        <li><a href="https://azim.hostlin.com/Bitfix/index.html">Blog</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1789,8 +1789,8 @@
                                 <div class="widget-content">
                                     <ul class="info clearfix">
                                         <li><i class="icon-2"></i><a href="tel:+88123456987231">+88 12345 6987 231</a></li>
-                                        <li><i class="icon-19"></i><a href="mailto:info@ukonnectstaffing.com">info@ukonnectstaffing.com</a></li>
-                                        <li><i class="icon-23"></i>United States</li>
+                                        <li><i class="icon-19"></i><a href="mailto:info@example.com">info@example.com</a></li>
+                                        <li><i class="icon-23"></i>380 St Kilda Road, Melbo- urne VIC 3004, Australia</li>
                                     </ul>
                                 </div>
                             </div>
@@ -1812,7 +1812,7 @@
                     </div>
                 </div>
                 <div class="footer-bottom centred">
-                    <p><a href="https://azim.hostlin.com/Bitfix/index.html">Ukonnect Staffing</a> © 2026. All rights reserved.</p>
+                    <p><a href="https://azim.hostlin.com/Bitfix/index.html">BitFix</a> © 2025 All Right Reserved</p>
                 </div>
             </div>
         </section>
